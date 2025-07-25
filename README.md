@@ -10,7 +10,7 @@
 ### 🎧 Noise Suppression Web App
 Remove background noise from audio files using FFT and spectral gating.  
 **Tech:** Python, NumPy, Pandas, SQLite, JavaScript  
-[🔗 Live Demo / Repo](#) *(link if available)*
+
 
 ---
 
