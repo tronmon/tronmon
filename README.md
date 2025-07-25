@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Haider Sagar Warsi (tronmon)
+# 👋 Hi, I'm  tronmon
 
-🎓 B.E. in Computer Science | B.N.M Institute of Technology | CGPA: 9.13  
 🔍 Passionate about solving real-world problems using code  
 🌍 I believe in continuous learning and meaningful contributions to society
 
